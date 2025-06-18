@@ -26,7 +26,7 @@ Programming assignments from all courses in the Coursera [Deep Learning speciali
 
 ### Course 3: Structuring Machine Learning Projects
 
-- This course has no programming assignments, but it has some very interesting case study quizzes.
+This course has no programming assignments, but it has some very interesting case study quizzes.
 - Week 1 Quiz - Bird recognition in the city of Peacetopia (case study): [Text](https://github.com/testob02/Deep-Learning-Specialization--Coursera/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
 - Week 2 Quiz - Autonomous driving (case study): [Text](https://github.com/testob02/Deep-Learning-Specialization--Coursera/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
